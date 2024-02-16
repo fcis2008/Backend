@@ -1,0 +1,17 @@
+E:\Backend\Backend\bin\Debug\net6.0\Backend.exe
+E:\Backend\Backend\bin\Debug\net6.0\Backend.deps.json
+E:\Backend\Backend\bin\Debug\net6.0\Backend.runtimeconfig.json
+E:\Backend\Backend\bin\Debug\net6.0\Backend.dll
+E:\Backend\Backend\bin\Debug\net6.0\Backend.pdb
+E:\Backend\Backend\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\Backend\Backend\obj\Debug\net6.0\Backend.csproj.AssemblyReference.cache
+E:\Backend\Backend\obj\Debug\net6.0\Backend.GeneratedMSBuildEditorConfig.editorconfig
+E:\Backend\Backend\obj\Debug\net6.0\Backend.AssemblyInfoInputs.cache
+E:\Backend\Backend\obj\Debug\net6.0\Backend.AssemblyInfo.cs
+E:\Backend\Backend\obj\Debug\net6.0\Backend.csproj.CoreCompileInputs.cache
+E:\Backend\Backend\obj\Debug\net6.0\Backend.csproj.CopyComplete
+E:\Backend\Backend\obj\Debug\net6.0\Backend.dll
+E:\Backend\Backend\obj\Debug\net6.0\refint\Backend.dll
+E:\Backend\Backend\obj\Debug\net6.0\Backend.pdb
+E:\Backend\Backend\obj\Debug\net6.0\Backend.genruntimeconfig.cache
+E:\Backend\Backend\obj\Debug\net6.0\ref\Backend.dll

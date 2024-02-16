@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "dfLpyvqKdW88hYV+lOpDRtPHmQzlwRbi2ebqfAxU2JNxkx6r9PcyiOD+a6zsATego4h5X7Ud1v2nfrPJwByAgQ==",
+  "success": true,
+  "projectFilePath": "E:\\Backend\\Backend\\Backend.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mohamed\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
